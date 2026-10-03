@@ -1,0 +1,50 @@
+{
+  "week": "2026-10-03",
+  "week_title": "أسبوعنا مع الذكاء الاصطناعي",
+  "date": "3 أكتوبر 2026",
+  "caption": "هالأسبوع زحمة بالإصدارات! كلود صار أسرع وأرخص، جوجل وأوبن AI طلعوا نماذج جديدة، هكسفيلد صار يسوي إعلانات من رابط موقعك، وإيلفن لابز طلعت صوت يمثّل. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "items": [
+    {
+      "kind": "image",
+      "label": "الغلاف",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/01_cover.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/01_cover.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "أنثروبك تطلق سونيت أسرع وأرخص",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/02_story1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/02_story1.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "جوجل تطلق نموذجها الأقوى",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/03_story2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/03_story2.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "أوبن AI تطلق GPT-6.1 وأداة Dots",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/04_story3.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/04_story3.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "هكسفيلد يحوّل موقعك لإعلان",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/05_story4.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/05_story4.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "إيلفن لابز تطلق صوت يمثّل",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/06_story5.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/06_story5.jpg"
+    },
+    {
+      "kind": "image",
+      "label": "الختامي",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/07_closing.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-03/07_closing.jpg"
+    }
+  ]
+}
