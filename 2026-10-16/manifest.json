@@ -2,7 +2,7 @@
   "week": "2026-10-16",
   "week_title": "أسبوعنا مع الذكاء الاصطناعي",
   "date": "16 أكتوبر 2026",
-  "caption": "هالأسبوع: Gemini 4 Argon صار للمشتركين، وMeta فتحت Muse Spark Open، وChatGPT صار يعرض واجهات تفاعلية، وClaude Haiku 5.5 صار أرخص، وGrok Voice 3.0 يرد بأقل من ثانية. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\nالمصادر: Google، TechCrunch، Bloomberg، OpenAI، Anthropic، xAI\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "caption": "هالأسبوع: Gemini 4 Argon صار للمشتركين، وMeta أطلقت Muse Wonder وفتحت Muse Spark Open، وChatGPT صار يعرض واجهات تفاعلية داخل الرد. شاهدوا فيديوهات الشركات الرسمية كاملة بترجمة عربية 👆\n\nأي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\nالمصادر: Google DeepMind، Meta، OpenAI، TechCrunch، Bloomberg\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
   "items": [
     {
       "kind": "image",
@@ -12,39 +12,57 @@
     },
     {
       "kind": "video",
-      "label": "جوجل تفتح Gemini 4 Argon",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/02_story1.mp4",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/02_story1.jpg"
+      "label": "جوجل: Gemini 4 Argon (1/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/02_g_p1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/02_g_p1.jpg"
     },
     {
       "kind": "video",
-      "label": "Meta تطلق Muse Spark Open",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/03_story2.mp4",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/03_story2.jpg"
+      "label": "جوجل: Gemini 4 Argon (2/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/03_g_p2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/03_g_p2.jpg"
     },
     {
       "kind": "video",
-      "label": "OpenAI تطلق GPT-6 بواجهة ذكية",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/04_story3.mp4",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/04_story3.jpg"
+      "label": "جوجل: Gemini 4 Argon (3/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/04_g_p3.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/04_g_p3.jpg"
     },
     {
       "kind": "video",
-      "label": "Anthropic تطلق Claude Haiku 5.5",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/05_story4.mp4",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/05_story4.jpg"
+      "label": "Meta: Muse Wonder (1/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/05_m_p1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/05_m_p1.jpg"
     },
     {
       "kind": "video",
-      "label": "xAI تطلق Grok Voice 3.0",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/06_story5.mp4",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/06_story5.jpg"
+      "label": "Meta: Muse Wonder (2/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/06_m_p2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/06_m_p2.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Meta: Muse Wonder (3/3)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/07_m_p3.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/07_m_p3.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "OpenAI: GPT-6 (1/2)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/08_o_p1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/08_o_p1.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "OpenAI: GPT-6 (2/2)",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/09_o_p2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/09_o_p2.jpg"
     },
     {
       "kind": "image",
       "label": "الختامي",
-      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/07_closing.jpg",
-      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/07_closing.jpg"
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/10_closing.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-16/10_closing.jpg"
     }
   ]
 }

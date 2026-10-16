@@ -59,50 +59,13 @@
         "Intelligent UI"
       ],
       "video_seconds": 12
-    },
-    {
-      "title": "Anthropic تطلق Claude Haiku 5.5",
-      "summary": "النموذج الصغير صار أرخص بكثير: 0.10 دولار لكل مليون توكن إدخال للنصوص القصيرة، وAnthropic تقول إن التكلفة نزلت 75٪.",
-      "first_word_is_company": false,
-      "company": {
-        "slug": "anthropic",
-        "name": "Anthropic",
-        "simple_icon": "anthropic",
-        "youtube_channels": [
-          "@claude",
-          "@anthropic-ai"
-        ]
-      },
-      "video_keywords": [
-        "Haiku 5.5"
-      ],
-      "video_seconds": 12
-    },
-    {
-      "title": "xAI تطلق Grok Voice 3.0",
-      "summary": "نموذج صوت يرد بأقل من ثانية، وسعره 0.08 دولار بالدقيقة عبر الـAPI، وتقارير تقول إنه تصدّر مقياس الكلام.",
-      "first_word_is_company": false,
-      "company": {
-        "slug": "xai",
-        "name": "xAI",
-        "youtube_channels": [
-          "@xai"
-        ],
-        "domain": "x.ai"
-      },
-      "video_keywords": [
-        "Grok Voice"
-      ],
-      "video_seconds": 12
     }
   ],
-  "instagram_caption": "هالأسبوع: Gemini 4 Argon صار للمشتركين، وMeta فتحت Muse Spark Open، وChatGPT صار يعرض واجهات تفاعلية، وClaude Haiku 5.5 صار أرخص، وGrok Voice 3.0 يرد بأقل من ثانية. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\nالمصادر: Google، TechCrunch، Bloomberg، OpenAI، Anthropic، xAI\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "instagram_caption": "هالأسبوع: Gemini 4 Argon صار للمشتركين، وMeta أطلقت Muse Wonder وفتحت Muse Spark Open، وChatGPT صار يعرض واجهات تفاعلية داخل الرد. شاهدوا فيديوهات الشركات الرسمية كاملة بترجمة عربية 👆\n\nأي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\nالمصادر: Google DeepMind، Meta، OpenAI، TechCrunch، Bloomberg\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
   "sources": [
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-availability",
     "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
     "https://bloomberg.com/news/articles/2026-10-15/meta-releases-open-ai-model-while-keeping-its-best-tech-closed",
-    "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c",
-    "https://letsdatascience.com/news/anthropic-releases-claude-haiku-55-with-lower-prices-and-eff-f698c663",
-    "https://llmgateway.io/models/grok-voice-3-0"
+    "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"
   ]
 }
