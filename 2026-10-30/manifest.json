@@ -1,0 +1,50 @@
+{
+  "week": "2026-10-30",
+  "week_title": "أسبوعنا مع الذكاء الاصطناعي",
+  "date": "30 أكتوبر 2026",
+  "caption": "هالأسبوع Google كشفت Genie 4 اللي يبني عوالم تتحكم فيها بالكلام، وOpenAI طلعت GPT-6.1 Terra بنص السعر، وOpera دخلت WebAI للمتصفح، وByteDance فتحت استوديو دراما بالذكاء الاصطناعي، وAnt Group طلعت LingGuang 2.0 بذاكرة دائمة. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "items": [
+    {
+      "kind": "image",
+      "label": "الغلاف",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/01_cover.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/01_cover.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Google تكشف Genie 4 لبناء العوالم",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/02_story1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/02_story1.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "OpenAI تطلق GPT-6.1 Terra الأرخص",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/03_story2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/03_story2.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Opera تدخل WebAI للمتصفح",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/04_story3.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/04_story3.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "ByteDance تفتح استوديو الدراما بالذكاء",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/05_story4.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/05_story4.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Ant Group تطلق LingGuang 2.0",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/06_story5.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/06_story5.jpg"
+    },
+    {
+      "kind": "image",
+      "label": "الختامي",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/07_closing.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-10-30/07_closing.jpg"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date_arabic": "30 أكتوبر 2026",
+  "week_title_omani": "أسبوعنا مع الذكاء الاصطناعي",
+  "top_stories": [
+    {
+      "title": "Google تكشف Genie 4 لبناء العوالم",
+      "summary": "Google DeepMind كشفت عن Genie 4، نموذج يبني عوالم تفاعلية وتتحكم فيها بالكلام لحظيًا: تغيّر الجو أو تضيف شخصية. فيه فيزياء وصوت أصلي، وحاليًا للمختبرين بس.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "google",
+        "name": "Google",
+        "simple_icon": "google",
+        "youtube_channels": [
+          "@Google",
+          "@GoogleDeepMind",
+          "@googlegemini"
+        ]
+      },
+      "video_keywords": [
+        "Genie 4"
+      ],
+      "video_seconds": 12,
+      "official_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "video_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/G1xRCCXCq4NFRhFG/genie-4__blog__header__motion.webm"
+    },
+    {
+      "title": "OpenAI تطلق GPT-6.1 Terra الأرخص",
+      "summary": "OpenAI طلعت GPT-6.1 Terra، نموذج أسرع وأرخص بنص السعر تقريبًا من نسخ Sol، يشوف الصور ويشغّل التطبيقات، وسياقه أكثر من مليون توكن.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "openai",
+        "name": "OpenAI",
+        "simple_icon": "openai",
+        "youtube_channels": [
+          "@OpenAI"
+        ]
+      },
+      "video_keywords": [
+        "GPT-6.1 Terra"
+      ],
+      "video_seconds": 12
+    },
+    {
+      "title": "Opera تدخل WebAI للمتصفح",
+      "summary": "Opera عرضت WebAI، معيار جديد يشغّل نماذج الذكاء الاصطناعي داخل المتصفح نفسه بدون سيرفرات واشتراكات، وبياناتك تظل على جهازك. متوفر كمعاينة بـ Opera One.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "opera",
+        "name": "Opera",
+        "simple_icon": "opera",
+        "youtube_channels": [
+          "@opera"
+        ]
+      },
+      "video_keywords": [
+        "WebAI"
+      ],
+      "video_seconds": 12
+    },
+    {
+      "title": "ByteDance تفتح استوديو الدراما بالذكاء",
+      "summary": "Jimeng AI من ByteDance طلّع استوديو دراما قصيرة متكامل: كتابة السكربت وتصميم الشخصيات والستوري بورد وتوليد الفيديو بمنصة وحدة، بثلاث نماذج خاصة فيها.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "bytedance",
+        "name": "ByteDance",
+        "simple_icon": "bytedance",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "Jimeng AI"
+      ],
+      "video_seconds": 12
+    },
+    {
+      "title": "Ant Group تطلق LingGuang 2.0",
+      "summary": "Ant Group طلعت LingGuang 2.0، مساعد بذاكرة دائمة يكمّل مهامك حتى بعد ما تسكّر المحادثة: يراجع اشتراكاتك بـ Alipay ويراقب أسعار الرحلات، ويدعم MCP.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "antgroup",
+        "name": "Ant Group",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "LingGuang 2.0"
+      ],
+      "video_seconds": 12
+    }
+  ],
+  "instagram_caption": "هالأسبوع Google كشفت Genie 4 اللي يبني عوالم تتحكم فيها بالكلام، وOpenAI طلعت GPT-6.1 Terra بنص السعر، وOpera دخلت WebAI للمتصفح، وByteDance فتحت استوديو دراما بالذكاء الاصطناعي، وAnt Group طلعت LingGuang 2.0 بذاكرة دائمة. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "sources": [
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "https://www.theneuron.ai/news/openai-gpt-6-1-terra-api-price-cuts-authorization-risks/",
+    "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+    "https://technode.com/2026/10/27/ant-launches-lingguang-2-0-ai-assistant-for-ongoing-personal-tasks/"
+  ]
+}
