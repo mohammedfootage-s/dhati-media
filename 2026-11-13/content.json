@@ -1,0 +1,98 @@
+{
+  "date_arabic": "13 نوفمبر 2026",
+  "week_title_omani": "أسبوعنا مع الذكاء الاصطناعي",
+  "top_stories": [
+    {
+      "title": "Anthropic تطلق Fable 5.2",
+      "summary": "Anthropic طلعت Claude Fable 5.2، نموذج أسرع من النسخة السابقة وأقوى بالبرمجة والتفكير والرؤية. مفتوح للجميع.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "anthropic",
+        "name": "Anthropic",
+        "simple_icon": "anthropic",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "Claude Fable 5.2",
+        "Claude"
+      ],
+      "official_url": "https://www.anthropic.com/news/claude-fable-and-mythos-5-2",
+      "video_seconds": 12
+    },
+    {
+      "title": "Google تطلق AlphaGenome 2",
+      "summary": "Google DeepMind كشفت AlphaGenome 2، نموذج يتوقع تأثير تغيّرات الـDNA على الجينات بكل نوع خلية. يحدد تقريبًا ضعف المتغيرات المسببة مقارنة بالأول، ومتاح للأبحاث عبر API.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "google",
+        "name": "Google",
+        "simple_icon": "google",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "AlphaGenome 2",
+        "AlphaGenome"
+      ],
+      "official_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "video_seconds": 12
+    },
+    {
+      "title": "OpenAI تطلق GPT-6 Cyber",
+      "summary": "OpenAI أطلقت GPT-6 Cyber، نسخة من GPT-6 Astra متخصصة بحماية الأنظمة وكشف الثغرات. متاح لعملاء Daybreak Red الموثّقين بس.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "openai",
+        "name": "OpenAI",
+        "simple_icon": "openai",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "GPT-6 Cyber"
+      ],
+      "official_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "video_seconds": 12
+    },
+    {
+      "title": "Meta تطلق Muse Ember للوكلاء",
+      "summary": "Meta طلعت Muse Ember، أصغر وأرخص نموذج بعائلة Muse، مصمم لمهام الوكلاء مثل أدوات البرمجة والتوجيه، بسياق مليون توكن وسعر 0.10$ للمليون مدخلات.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "meta",
+        "name": "Meta",
+        "simple_icon": "meta",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "Muse Ember"
+      ],
+      "official_url": "https://research.meta.ai/blog/muse-ember",
+      "video_seconds": 12
+    },
+    {
+      "title": "Databricks تطلق Genie الجيل الثاني",
+      "summary": "Databricks أطلقت الجيل الثاني من Genie، وكيل شغّال طول الوقت بالخلفية يوزّع المهام على وكلاء فرعيين ويراسلك بس لما يحتاج قرارك.",
+      "first_word_is_company": false,
+      "company": {
+        "slug": "databricks",
+        "name": "Databricks",
+        "simple_icon": "databricks",
+        "youtube_channels": []
+      },
+      "video_keywords": [
+        "Genie",
+        "Databricks Genie"
+      ],
+      "official_url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex",
+      "video_seconds": 12
+    }
+  ],
+  "instagram_caption": "هالأسبوع Anthropic طلعت Claude Fable 5.2 وMythos 5.2، وGoogle DeepMind كشفت AlphaGenome 2 لفك لغة الـDNA، وOpenAI أطلقت GPT-6 Cyber لكشف الثغرات، وMeta طلعت Muse Ember للوكلاء، وDatabricks أطلقت الجيل الثاني من Genie. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "sources": [
+    "https://www.anthropic.com/news/claude-fable-and-mythos-5-2",
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "https://openai.com/index/introducing-gpt-6-cyber/",
+    "https://research.meta.ai/blog/muse-ember",
+    "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex",
+    "https://www.esecurityplanet.com/news/news-openai-gpt-6-cyber-security-benchmarks/"
+  ]
+}

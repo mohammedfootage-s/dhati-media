@@ -1,0 +1,50 @@
+{
+  "week": "2026-11-13",
+  "week_title": "أسبوعنا مع الذكاء الاصطناعي",
+  "date": "13 نوفمبر 2026",
+  "caption": "هالأسبوع Anthropic طلعت Claude Fable 5.2 وMythos 5.2، وGoogle DeepMind كشفت AlphaGenome 2 لفك لغة الـDNA، وOpenAI أطلقت GPT-6 Cyber لكشف الثغرات، وMeta طلعت Muse Ember للوكلاء، وDatabricks أطلقت الجيل الثاني من Genie. أي خبر شدّكم أكثر؟ قولوا لنا بالتعليقات 👇\n\n#ذكاء_اصطناعي #تعلم_ذاتي #AI #عمان #تقنية",
+  "items": [
+    {
+      "kind": "image",
+      "label": "الغلاف",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/01_cover.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/01_cover.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Anthropic تطلق Fable 5.2",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/02_story1.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/02_story1.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Google تطلق AlphaGenome 2",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/03_story2.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/03_story2.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "OpenAI تطلق GPT-6 Cyber",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/04_story3.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/04_story3.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Meta تطلق Muse Ember للوكلاء",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/05_story4.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/05_story4.jpg"
+    },
+    {
+      "kind": "video",
+      "label": "Databricks تطلق Genie الجيل الثاني",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/06_story5.mp4",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/06_story5.jpg"
+    },
+    {
+      "kind": "image",
+      "label": "الختامي",
+      "url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/07_closing.jpg",
+      "preview_url": "https://mohammedfootage-s.github.io/dhati-media/2026-11-13/07_closing.jpg"
+    }
+  ]
+}
